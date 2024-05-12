@@ -19,7 +19,7 @@ Our methodology involves several key steps:
 4. Thorough evaluation using various performance metrics on validation and testing sets
 
 ## Results and Discussion
-- Achieved remarkable accuracy and predictive power, especially with models like Random Forest and XGBoost
+- Achieved remarkable accuracy and predictive power, especially with models like LightGBM, XGBoost etc.
 - Provided valuable insights into the complex relationships within meteorological data and their predictability
 - Demonstrated the potential of ML techniques in accurately predicting rainfall events, contributing to informed decision-making in various sectors reliant on weather predictions
 
