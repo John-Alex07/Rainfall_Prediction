@@ -4,8 +4,8 @@
 This repository contains the code and resources for our research paper titled "Machine Learning for Rainfall Prediction," published at the 2nd IEEE International Conference on Disruptive Technologies (ICDT-2024). The research explores the efficacy of machine learning algorithms in predicting rainfall occurrences based on meteorological data.
 
 ## Contents
-- `data/`: Folder containing the dataset used for training and evaluation
-- `notebooks/`: Jupyter notebooks with the code for data preprocessing, exploratory data analysis, model building, and evaluation
+- `Dataset/`: Folder containing the dataset used for training and evaluation
+- `Code/`: Jupyter notebooks with the code for data preprocessing, exploratory data analysis, model building, and evaluation
 - `scripts/`: Python scripts for specific tasks such as data preprocessing and model evaluation
 - `results/`: Folder to store the results obtained from the experiments
 - `requirements.txt`: List of Python packages required to run the code
@@ -32,9 +32,8 @@ If you use this work or find it helpful in your research, please consider citing
 [Insert Citation Here]
 
 ## Contributors
-- [Your Name]
-- [Co-author 1]
-- [Co-author 2]
+- [John Alexander]
+- [Kanchan Bartwal]
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
