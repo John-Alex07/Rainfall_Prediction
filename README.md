@@ -32,8 +32,8 @@ If you use this work or find it helpful in your research, please consider citing
 [Insert Citation Here]
 
 ## Contributors
-- [John Alexander]
-- [Kanchan Bartwal]
+- **John Alexander**
+- **Kanchan Bartwal**
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
