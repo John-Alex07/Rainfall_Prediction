@@ -29,7 +29,7 @@ Our methodology involves several key steps:
 
 ## Citation
 If you use this work or find it helpful in your research, please consider citing our paper:
-[Insert Citation Here]
+[K. Bartwal, N. Pathak, J. Alexander, M. Aeri, S. A. Dhondiyal and S. Awasthi, "Rainfall Prediction Using Machine Learning," 2024 2nd International Conference on Disruptive Technologies (ICDT), Greater Noida, India, 2024, pp. 582-588, doi: 10.1109/ICDT61202.2024.10489249. keywords: {Rain;Machine learning algorithms;Correlation;Atmospheric modeling;Data preprocessing;Buildings;Predictive models;rainfall;rainfall prediction;machine learning;logistic regression;k-nn;SVC;random forest;XGBoost;Light Gradient Boosting},]
 
 ## Contributors
 - **John Alexander**
