@@ -3,6 +3,9 @@
 ## Overview
 This repository contains the code and resources for our research paper titled "Machine Learning for Rainfall Prediction," published at the 2nd IEEE International Conference on Disruptive Technologies (ICDT-2024). The research explores the efficacy of machine learning algorithms in predicting rainfall occurrences based on meteorological data.
 
+## Link for the research paper
+https://ieeexplore.ieee.org/document/10489249
+
 ## Contents
 - `Dataset/`: Folder containing the dataset used for training and evaluation
 - `Code/`: Jupyter notebooks with the code for data preprocessing, exploratory data analysis, model building, and evaluation
